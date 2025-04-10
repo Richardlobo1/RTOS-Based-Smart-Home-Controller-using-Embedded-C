@@ -29,18 +29,7 @@ When we think of home automation we generally visualize switching on/off some bu
 > *It is not smart automation in true sense*
 
 - To achieve true home automation Real Time Operating System (RTOS) is integrated in the system which can perform multiple things simultaneously.
-- The system is smart enough to automatically trigger actions based on certain events happening in real time.
-
-## Demo
-
-#### Complete Version
-
-- YouTube - [youtu.be/aT6Lj6hBVUk](https://youtu.be/aT6Lj6hBVUk)
-
-#### Short Version
-
-- Reddit - [reddit.com/smart_home_automation](https://www.reddit.com/r/homeautomation/comments/13aod3a/built_a_complete_smart_home_automation_system/)
-
+- The system is smart enough to automatically trigger actions based on certain events happening in real ti
 ## Features
 
 - Wireless control with Bluetooth
